@@ -1,16 +1,8 @@
 # flutter_application_error
 
-A new Flutter project.
+simple reset api app in flutter_dart using GetX state management 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230627-040730](https://github.com/mohamadrashid828/Simple-reset-API-flutter-using-GetX/assets/82722647/ff905248-fd09-4823-8ff1-2dda465e6ed4)
+![Screenshot_20230627-041104](https://github.com/mohamadrashid828/Simple-reset-API-flutter-using-GetX/assets/82722647/ffb70c4d-c0d9-46e4-bf87-c98c111fa16e)
